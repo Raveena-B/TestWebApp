@@ -1,0 +1,88 @@
+.logoname{
+  color: rgb(169, 19, 19);
+  
+}
+
+.container{
+  background-color: rgb(225, 130, 133);
+}
+
+.nav-link{
+  text-decoration: none;
+
+}
+
+.p{
+margin-top: 200px;
+background-color: aqua;
+}
+btn:hover {
+  background-color: none;
+}
+
+.bg {
+  /* background-image: url("../../public/1.jpeg"); */
+  background-color: #cccccc;
+  background-repeat: no-repeat;
+  width: 109.23%;
+  height: 200%;
+
+}
+
+.h2 {
+  background-color: #f1f1f1;
+  text-align: left;
+  color: #020202;
+  height: 60px;
+}
+
+.Components {
+  color: #ffffff;
+}
+
+.h1 {
+  color: #ffffff;
+  font-family: "monospace";
+  font-size: 55px;
+  margin-top: 300px;
+  background-color: #000000;
+  opacity: 0.7;
+  margin-left: 225px;
+  padding-top: 2%;
+  padding-bottom: 2%;
+
+}
+
+.display {
+  background-color: #7B241C;
+  border: none;
+  color: rgb(255, 255, 255);
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px bold;
+  margin-left: 900px;
+  border-radius: 12px;
+  cursor: pointer;
+}
+
+.display btn:hover {
+  color: #000000;
+}
+
+.btnback {
+  background-color: #7B241C;
+  border: none;
+  color: rgb(255, 255, 255);
+  padding: 10px;
+  margin-top: 0;
+  margin-left: 0;
+  border-radius: 12px;
+  cursor: pointer;
+  text-decoration: none;
+  font-size: 16px bold;
+}
+
+.gender{
+  color: #ffffff;
+}
